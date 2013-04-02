@@ -1,6 +1,6 @@
 ---
 layout: portfolio_entry
-image: /img/birds.jpg
+image: /images/birds.jpg
 title: Bikes, Black and White
 ---
 
